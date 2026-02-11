@@ -139,6 +139,8 @@ nav .nav-links li a {
     color: black;
 }
 
+nav .nav-links li a.nav-active{color: #15c0c7;}
+
 nav .nav-links li:hover a {
     color: #15c0c7;
     transition: color -.5s;
@@ -888,5 +890,6 @@ footer p a:hover {
     color: #15c0c7;
     cursor: pointer;
 }
+
 
 /* end footer */
